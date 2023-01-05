@@ -1,0 +1,1 @@
+Estou voltando a aprender programação depois de 1 ano, nesse repositorio irei adicionar os arquivos estudados nessa trajetoria. =)
