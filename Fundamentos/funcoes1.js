@@ -18,3 +18,7 @@ soma(2, 2), entao tem que colocar soma dentro do console.log
 */
 console.log(soma(2, 2))
 console.log(soma(2))
+
+
+/*obsertvacao: uma funcao tem consciencia de onde ela
+foi definida*/

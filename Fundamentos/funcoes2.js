@@ -21,3 +21,4 @@ console.log(soma(2, 3))
 //retorno implicito, usar return sem precisa escrever el
 const subtracao = (a, b) => a - b
 console.log(subtracao(2, 3))
+
